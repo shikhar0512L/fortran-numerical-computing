@@ -25,5 +25,5 @@ To run these files locally, you need a Fortran compiler like `gfortran` (part of
    - On Windows: Install MinGW or use WSL.
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fortran-numerical-computing.git
+   git clone https://github.com/shikhar0512L/fortran-numerical-computing.git
    cd fortran-numerical-computing
